@@ -1,6 +1,6 @@
 import { Injectable } from '@angular/core';
 import { posts } from './post-data';
-import { Post } from './post';
+import { Post } from './models/post';
 
 @Injectable({
   providedIn: 'root'
